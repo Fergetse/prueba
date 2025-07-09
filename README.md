@@ -7,3 +7,14 @@
 
 1. git init // inicializar repositorio
 2. 
+
+
+* git add *
+* git commit -m ""
+* git push origin main
+
+//Crear rama
+git branch -M <nombre>
+
+//cambiar rama
+git checkout <nombre>
