@@ -1,12 +1,9 @@
 @import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap');
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  font-family: Arial, Helvetica, sans-serif;
+.raleway-* {
+  font-family: "TikTok Sans";
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
 }
