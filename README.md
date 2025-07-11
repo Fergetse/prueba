@@ -35,6 +35,8 @@ Para el proyecto desarrollado se hicieron uso de diversas tecnologías enfocadas
 
 3. Abrir línea de comandos en esa ubicación (fimubac/)
 
+3.1 Ejecutar *npm i* para descargar los módulos
+
 4. Ejecutar FrontEnd: *npm run dev*
 5. Ejecutar BackEnd: *npm run dev:server*
 
@@ -49,7 +51,7 @@ Para el proyecto desarrollado se hicieron uso de diversas tecnologías enfocadas
 1. Incluye los tipos de controladores usados para la conexión a la base de datos
 
 * DB
-1. COntiene la base de datos preeliminar en formato JSON
+1. Contiene la base de datos preeliminar en formato JSON
 
 * server
 1. Incluye el fichero index.js del servidor en express
@@ -92,4 +94,4 @@ src:
 * Se añade un método para consulta de un sólo usuario por iD
 * Se añade un método para eliminación de usuario por ID
 * Se añade un método para edición de usuario por medio de ID
-* Se añade un método para creación de un nuevo usuario (se recibe toda la información del user)
+* Se añade un método para creación de un nuevo usuario (se recibe toda la información del *user*)
